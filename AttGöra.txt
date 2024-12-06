@@ -1,0 +1,2 @@
+Styla om index.html så blir att se ut ungefär som "Slutresultat.png". HTML-koden ska vara orörd.
+Ni ska bara ändra i css/main.css för att få till utseendet som visas i "Slutresultat.png".
