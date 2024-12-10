@@ -103,6 +103,9 @@ textarea {
   margin: 0;
   padding: 0;
 }
+header {
+  text-align: center;
+}
 
 body {
   display: flex;
@@ -131,8 +134,11 @@ main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  padding: 20px;
+  padding: 10px;
   justify-content: center;
+  align-self: center;
+  width: 78.5vw; 
+  border-radius: 10px;   
 }
 main > div {
   display: flex;
@@ -145,9 +151,12 @@ img {
 main > p {
   width: 68vw;
   margin: 10px;
+  font-size: larger ;
 }
 div > p {
-  font-size: smaller  ;
+  font-size:smaller ;
+  background-color: yellow;
+  margin-bottom: 5px;
 }
 
 
